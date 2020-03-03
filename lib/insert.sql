@@ -19,3 +19,5 @@ INSERT INTO users (name, age) VALUES
 ("Bob", 35),
 ("Alex", 28),
 ("Maxine", 25);
+
+INSERT INTO users (name, age) VALUES
