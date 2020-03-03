@@ -22,8 +22,8 @@ INSERT INTO users (name, age) VALUES
 
 INSERT INTO projects (name, age) VALUES
 ("Project A", "Hunger", 10000, "April 1st", "June 1st"),
-("Project B", "Homeless", 20000, "April 20th", "June 1st"),
-("Project C", "Family", 15000, "April 1st", "June 1st"),
+("Project B", "Homeless", 20000, "April 20th", "June 20th"),
+("Project C", "Family", 15000, "April 5th", "June 5th"),
 ("Project A", "Volunteer", 10000, "April 1st", "June 1st"),
 ("Project A", "Volunteer", 10000, "April 1st", "June 1st"),
 ("Project A", "Volunteer", 10000, "April 1st", "June 1st"),
