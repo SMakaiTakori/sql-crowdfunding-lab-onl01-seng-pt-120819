@@ -24,13 +24,13 @@ INSERT INTO projects (name, age) VALUES
 ("Project A", "Hunger", 10000, "April 1st", "June 1st"),
 ("Project B", "Homeless", 20000, "April 20th", "June 20th"),
 ("Project C", "Family", 15000, "April 5th", "June 5th"),
-("Project D", "Music", 10000, "April 1st", "June 1st"),
-("Project E", "Volunteer", 10000, "April 1st", "June 1st"),
-("Project F", "Volunteer", 10000, "April 1st", "June 1st"),
-("Project G", "Volunteer", 10000, "April 1st", "June 1st"),
-("Project H", "Volunteer", 10000, "April 1st", "June 1st"),
-("Project I", "Volunteer", 10000, "April 1st", "June 1st"),
-("Project J", "Volunteer", 10000, "April 1st", "June 1st");
+("Project D", "Music Program", 10000, "April 1st", "June 1st"),
+("Project E", "School Books", 20000, "April 1st", "June 1st"),
+("Project F", "Pencils", 4000, "April 1st", "June 1st"),
+("Project G", "Notebooks", 5000, "April 1st", "June 1st"),
+("Project H", "Tutors", 30000, "April 1st", "June 1st"),
+("Project I", "Art Program", 10000, "April 1st", "June 1st"),
+("Project J", "Soup Kitchen", 30000, "April 1st", "June 1st");
 
 
 
