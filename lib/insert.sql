@@ -20,7 +20,7 @@ INSERT INTO users (name, age) VALUES
 ("Alex", 28),
 ("Maxine", 25);
 
-INSERT INTO projects (name, age) VALUES
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
 ("Project A", "Hunger", 10000, "April 1st", "June 1st"),
 ("Project B", "Homeless", 20000, "April 20th", "June 20th"),
 ("Project C", "Family", 15000, "April 5th", "June 5th"),
