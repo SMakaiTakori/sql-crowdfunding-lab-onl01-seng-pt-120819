@@ -21,3 +21,13 @@ INSERT INTO users (name, age) VALUES
 ("Maxine", 25);
 
 INSERT INTO projects (name, age) VALUES
+("Project A", "Volunteer", 10000, "April 1st", "June 1st"),
+
+
+
+
+title TEXT, 
+category TEXT, 
+funding_goal INTEGER,
+start_date TEXT,
+end_date TEXT);
