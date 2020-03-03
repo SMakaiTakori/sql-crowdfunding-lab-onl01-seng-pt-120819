@@ -32,6 +32,6 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 ("Project I", "Art Program", 45000, "April 1st", "June 1st"),
 ("Project J", "Soup Kitchen", 30000, "April 1st", "June 1st");
 
-
+INSERT INTO users (name, age) VALUES
 
 
